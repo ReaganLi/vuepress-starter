@@ -48,8 +48,6 @@ const line3 = 'This is line 3'
 const onePlusTwoPlusThree = {{ 1 + 2 + 3 }}
 ```
 
-
-[[toc]]
+:smiley:
 <!-- URL -->
 [GitHub](https://github.com) 
-:smiley:
